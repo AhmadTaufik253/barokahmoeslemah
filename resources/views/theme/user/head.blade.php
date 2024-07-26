@@ -22,7 +22,7 @@
 
 	<!-- Document Title ============================================= -->
 	<title>{{config('app.name') . ': ' .$title ?? config('app.name')}}</title>
-	<link rel="shortcut icon" href="{{asset('img/logo.jpg')}}" />
+	<link rel="shortcut icon" href="{{asset('img/logo-barokahmoeslemah.jpg')}}" />
 	<style>
 
 		.white-section {
